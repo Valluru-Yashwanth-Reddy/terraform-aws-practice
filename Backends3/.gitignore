@@ -1,0 +1,17 @@
+# Terraform generated files
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.tfvars
+
+# Binary files (like provider .exe)
+*.exe
+
+# VSCode or system files
+.vscode/
+*.log
+.DS_Store
+
+# Backup files
+*.backup

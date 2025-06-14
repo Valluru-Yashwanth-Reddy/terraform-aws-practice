@@ -1,0 +1,7 @@
+assignment-01-s3-static-website/.terraform/providers/registry.terraform.io/hashicorp/aws/5.99.1/windows_386/terraform-provider-aws_v5.99.1_x5.exe
+
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.tfvars        
